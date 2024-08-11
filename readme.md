@@ -1,9 +1,17 @@
-#test repo 
-<div class="block">
-	dsfsdg
-</div>
-<p>
-	hsdahfshgk dkjsfljs
+<!DOCTYPE html>
+
+<html lang="ru">
+<head>
+
+	<title>css part 2</title>
+
+	<link rel="stylesheet" href="css/style.css">
+
+<meta http-equiv="Content-type" content = "text/html; charset=UTF=8"/> 
+</head>
+
+
+<body>
 	
-</p>
-<p> some more nex text </p>
+</body>
+</html> 
